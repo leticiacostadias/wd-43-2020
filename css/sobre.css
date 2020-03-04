@@ -1,0 +1,52 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  color: #3D3D3D;
+  background-color: #E1EDF2;
+  padding: 10px;
+}
+
+h2, h3 {
+  border-bottom: 2px solid #3D3D3D;
+}
+
+/* img {
+  align-content: center; // funcionam apenas com flex
+  align-items: center; // funcionam apenas com flex
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+figure {
+  text-align: center;
+  background-color: whitesmoke;
+  color: lightgrey;
+  padding: 15px;
+  margin: 30px;
+}
+
+/* img {
+  margin-bottom: 10px;
+} */
+
+figure figcaption {
+  margin-top: 10px;
+}
+
+div {
+  width: 940px;
+  margin: auto;
+}
+
+#historia {
+  color: fuchsia
+}
+
+/* a {
+  color: inherit;
+  text-decoration: none;
+} */

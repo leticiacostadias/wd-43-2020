@@ -1,5 +1,66 @@
-Download arquivos:
-https://www.caelum.com.br/download/caelum-arquivos-wd43.zip
+Aula 1
+  Download arquivos:
+  https://www.caelum.com.br/download/caelum-arquivos-wd43.zip
 
-Texto Sobre
-https://bit.ly/3anwtci
+  Texto Sobre
+  [Logo MusicDot]
+  Sobre a empresa
+
+  A MusicDot é a maior escola online de música em todo o mundo.
+  Fundada em 1932, possui estúdios em 124 países, sendo líder de mercado com mais de 90% de
+  participação em 118 deles.
+
+  Nossa matriz fica em Mafra, em Santa Catarina. De lá, saem grande parte das gravações de nossos cursos. Nossa matriz:
+  [Matriz MusicDot]
+
+  Assine os cursos da MusicDot. Acesse nosso site ou entre em contato se tiver dúvidas. Conheça também nossa história e nossos diferenciais.
+
+  História
+  [Família Tüpfeln]
+
+  A fundação em 1932 ocorreu no momento da descoberta econônica de cursos por stream online no interior de Santa Catarina. A família Tüpfeln, tradicional da região, investiu todas as suas economias nessa nova iniciativa, revolucionária para a época. A fundadora frau Dagmar Olaf Tüpfeln, dotada de particular visão administrativa, guiou os negócios da empresa durante mais de 50 anos, muitos deles ao lado de seu filho Ernst Noten Tüpfeln, atual CEO. O nome da empresa é inspirado no nome da família.
+
+  O crescimento da empresa foi praticamente instantâneo. Nos primeiros 5 anos, já atendia 18 países. Bateu a marca de 100 países em apenas 15 anos de existência. Até hoje, já atendeu 2 bilhões de usuários diferentes, em bilhões de diferentes pedidos.
+
+  O crescimento em número de funcionários é também assombroso. Hoje, é a maior empregadora do Brasil, mas mesmo após apenas 5 anos de sua existência, já possuía 30 mil funcionários. Fora do Brasil, há 240 mil funcionários, além dos 890 mil brasileiros nas instalações de Mafra e nos escritórios em todo país.
+
+  Dada a importância econômica da empresa para o Brasil, a família Tüpfeln já recebeu diversos prêmios, homenagens e condecorações. Todos os presidentes do Brasil já visitaram as instalações da MusicDot, além de presidentes da União Européia, Ásia e o secretário-geral da ONU.
+
+
+Aula 2
+  Exercício: https://bit.ly/2PLSVDX
+  - Na página toda: trocar a família da fonte de toda a página
+  - No título principal: alterar a cor da fonte para um cinza-escuro "#3D3D3D"
+  - No título principal: colocar uma cor de fundo cinza-azulado "#E1EDF2"
+  - Nos subtítulos: colocar uma borda na parte de baixo *
+  - Nas figuras: centralizar o conteúdo
+  - Nas figuras: colocar uma cor de fundo chamada "whitesmoke"
+  - Nas figuras: alterar a cor da fonte para um cinza-claro "lightgrey"
+
+  Exercício - https://bit.ly/2PHyhVG
+    - Diminuir a largura do conteúdo da página para 940px
+    - Para que o conteúdo não fique colado no canto da página, afaste ele dos cantos direito e esquerdo da tela, até que fique centralizado.
+    - Criar um espaço de respiro interno de 10px para o conteúdo do título principal
+    - Criar um espaço de respiro interno de 15px para o conteúdo das figuras
+    - Afastar 30px as figuras dos cantos da tela e das caixas que vêm antes e depois delas
+    - Dentro das figuras, afastar 10px a legenda da imagem
+
+  Exercício - https://bit.ly/2uRMGY7
+    Diferenciais
+
+    - Menor preço do mercado, garantido
+    - Se você achar um serviço mais barato, leva 1 mês de graça
+    - Pague em reais, dólares, euros, libras, dodgecoins, litecoins ou bitcoins
+    - Todas as compras acompanham acesso à Alura
+    - Maior escola de música online do mundo
+    - Atendimento via telefone, email, chat, twitter, facebook, instagram, ICQ, WhatsApp, SMS, carta, fax, sinal de fumaça e telegrama
+    - Presente em 124 países
+    - Mais de um milhão de funcionários em todo o mundo
+
+  Exercício
+    - "nosso site" apontando para a página principal do nosso site em "index.html"
+    - "nossa história" apontando para a página sobre, porém tendo como alvo o subtítulo <h2>História</h2>
+    - "nossos diferenciais" apontando para a página sobre, porém tendo como alvo o subtítulo <h2>Diferenciais</h2>
+
+  Exercício
+    Fazer um menu com 3 itens abaixo da logo do site
