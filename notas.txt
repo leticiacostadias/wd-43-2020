@@ -64,3 +64,34 @@ Aula 2
 
   Exercício
     Fazer um menu com 3 itens abaixo da logo do site
+
+Projeto: https://bit.ly/38naMYg
+
+Aula 3
+  Exercício:
+    - A <figure> da matriz deverá ter 550px de largura e deve estar centralizada em relação à página.
+    - A <figure> da família devera ter 275px de largura, deve ficar alinhada à direita e envolta pelos textos que vêm no HTML abaixo dela. *
+
+    Ao alterar a largura das tags <figure> você notará que as tags <img> dentro delas são maiores.
+    Para resolver isso podemos dizer que toda tag <img> dentro de uma tag <figure> deve ocupar
+    todo o espaço que definimos, mas não mais que isso.
+  
+  Exercício
+    - Adicionar seção de contato
+    - O título desta seção deve ser igual ao título principal da página (MusicDot)
+    - Refatorar a estilização dos outros subtítulos para deixarem usar seletores de tags
+
+  Exercício: Semântica
+    Criar na seção Contato:
+      Uma seção com título "Correspondência" contendo:
+        - o horário para recebimento de correspondências
+        - um endereço para correspondência com:
+          - Nome da empresa
+          - Rua, núemro e andar
+          - Bairro
+          - Cidade - estado
+
+      Uma seção com título "Telefones" contendo:
+        - o horário para recebimento de ligações
+        - Telefone de Pessoa Física
+        - Telefone de Pessoa Jurídica
