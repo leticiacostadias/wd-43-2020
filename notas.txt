@@ -95,3 +95,24 @@ Aula 3
         - o horário para recebimento de ligações
         - Telefone de Pessoa Física
         - Telefone de Pessoa Jurídica
+
+Aula 4
+  Exercício
+    - Alinhar descrições (Atendemos aos sábados das 9h às 20h) com o subtítulo (<h3>)
+    - Adequar espaçamentos, se necessário
+    - Adequar nomes das classes ao BEM
+
+  Exercício
+    - O texto do telefone (dt) deve estar na mesma linha que o telefone (dd)
+    - A seção de telefones deve ter um background com a cor #E1EDF2
+  
+  Exercício
+    - Criar um novo footer com logo e um copyright (&copy;)
+    - Mudar tamanho da fonte global para 16px
+    - Adicionar espaçamento global entre linhas de 1.5
+    - No rodapé:
+      - Adicionar espaçamento interno de 75% maior que o da fonte da página em cima e em baixo e 0 nos lados
+      - Colocar uma fonte 10% maior que a fonte da página no copyright
+      - Deixar a logo e texto de copyright na mesma linha
+      - Colocar um espaçamento a esquerda da logo de 1em
+    - Dar 3 pulinhos

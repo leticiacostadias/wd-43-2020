@@ -77,3 +77,49 @@ img {
   text-decoration: none;
 } */
 
+.contatos__info {
+  margin-left: 10px;
+  /* font-size: 3em; */
+}
+
+.contatos__info,
+.contatos__titulo {
+  display: inline-block;
+}
+
+.contatos__secao {
+  width: 49%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.contatos__secao--telefone {
+  background-color: #E1EDF2;  
+}
+
+.telefones__titulo,
+.telefones__telefone {
+  display: inline;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.rodape {
+  padding: 1.75em 0;
+}
+
+.rodape__logo {
+  margin-left: 1em;
+}
+
+.rodape__copyright {
+  font-size: 1.1em;
+}
+ 
+/* .rodape__logo,
+.rodape__copyright {
+  display: inline-block;
+} */

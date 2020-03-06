@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+
+  <style>
+    img {
+      width: 200px;
+    }
+
+    .produtos__titulo {
+      font-size: 24px;
+      font-family: Arial;
+    }
+
+    .produtos__lista {
+      list-style: none;
+      display: block;
+      padding: 0;
+      margin: 20px 0;
+    }
+
+    .produtos__produto {
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .produtos__produto--destaque img {
+      width: 400px;
+    }
+  </style>
+</head>
+<body>
+  <section class="produtos produtos--mais-vendidos">
+
+    <h2 class="produtos__titulo">Produtos mais vendidos</h2>
+    <ul class="produtos__lista">
+  
+      <li class="produtos__produto">
+        <figure>
+          <img src="img/familia-tupfeln.jpg" alt="Foto do Produto 1">
+          <figcaption>Foto do produto 1</figcaption>
+        </figure>
+      </li>
+  
+      <li class="produtos__produto produtos__produto--destaque">
+        <figure>
+          <img src="img/familia-tupfeln.jpg" alt="Foto do Produto em Destaque">
+          <figcaption>Foto do produto em destaque</figcaption>
+        </figure>
+      </li>
+  
+      <li class="produtos__produto">
+        <figure>
+          <img src="img/familia-tupfeln.jpg">
+          <figcaption>Foto do produto</figcaption>
+        </figure>
+      </li>
+      <li class="produtos__produto">
+        <figure>
+          <img src="img/familia-tupfeln.jpg">
+          <figcaption>Foto do produto</figcaption>
+        </figure>
+      </li>
+    </ul>
+  </section>
+</body>
+</html>
