@@ -1,0 +1,154 @@
+Aula 1
+  Download arquivos:
+  https://www.caelum.com.br/download/caelum-arquivos-wd43.zip
+
+  Texto Sobre
+  [Logo MusicDot]
+  Sobre a empresa
+
+  A MusicDot é a maior escola online de música em todo o mundo.
+  Fundada em 1932, possui estúdios em 124 países, sendo líder de mercado com mais de 90% de
+  participação em 118 deles.
+
+  Nossa matriz fica em Mafra, em Santa Catarina. De lá, saem grande parte das gravações de nossos cursos. Nossa matriz:
+  [Matriz MusicDot]
+
+  Assine os cursos da MusicDot. Acesse nosso site ou entre em contato se tiver dúvidas. Conheça também nossa história e nossos diferenciais.
+
+  História
+  [Família Tüpfeln]
+
+  A fundação em 1932 ocorreu no momento da descoberta econônica de cursos por stream online no interior de Santa Catarina. A família Tüpfeln, tradicional da região, investiu todas as suas economias nessa nova iniciativa, revolucionária para a época. A fundadora frau Dagmar Olaf Tüpfeln, dotada de particular visão administrativa, guiou os negócios da empresa durante mais de 50 anos, muitos deles ao lado de seu filho Ernst Noten Tüpfeln, atual CEO. O nome da empresa é inspirado no nome da família.
+
+  O crescimento da empresa foi praticamente instantâneo. Nos primeiros 5 anos, já atendia 18 países. Bateu a marca de 100 países em apenas 15 anos de existência. Até hoje, já atendeu 2 bilhões de usuários diferentes, em bilhões de diferentes pedidos.
+
+  O crescimento em número de funcionários é também assombroso. Hoje, é a maior empregadora do Brasil, mas mesmo após apenas 5 anos de sua existência, já possuía 30 mil funcionários. Fora do Brasil, há 240 mil funcionários, além dos 890 mil brasileiros nas instalações de Mafra e nos escritórios em todo país.
+
+  Dada a importância econômica da empresa para o Brasil, a família Tüpfeln já recebeu diversos prêmios, homenagens e condecorações. Todos os presidentes do Brasil já visitaram as instalações da MusicDot, além de presidentes da União Européia, Ásia e o secretário-geral da ONU.
+
+
+Aula 2
+  Exercício: https://bit.ly/2PLSVDX
+  - Na página toda: trocar a família da fonte de toda a página
+  - No título principal: alterar a cor da fonte para um cinza-escuro "#3D3D3D"
+  - No título principal: colocar uma cor de fundo cinza-azulado "#E1EDF2"
+  - Nos subtítulos: colocar uma borda na parte de baixo *
+  - Nas figuras: centralizar o conteúdo
+  - Nas figuras: colocar uma cor de fundo chamada "whitesmoke"
+  - Nas figuras: alterar a cor da fonte para um cinza-claro "lightgrey"
+
+  Exercício - https://bit.ly/2PHyhVG
+    - Diminuir a largura do conteúdo da página para 940px
+    - Para que o conteúdo não fique colado no canto da página, afaste ele dos cantos direito e esquerdo da tela, até que fique centralizado.
+    - Criar um espaço de respiro interno de 10px para o conteúdo do título principal
+    - Criar um espaço de respiro interno de 15px para o conteúdo das figuras
+    - Afastar 30px as figuras dos cantos da tela e das caixas que vêm antes e depois delas
+    - Dentro das figuras, afastar 10px a legenda da imagem
+
+  Exercício - https://bit.ly/2uRMGY7
+    Diferenciais
+
+    - Menor preço do mercado, garantido
+    - Se você achar um serviço mais barato, leva 1 mês de graça
+    - Pague em reais, dólares, euros, libras, dodgecoins, litecoins ou bitcoins
+    - Todas as compras acompanham acesso à Alura
+    - Maior escola de música online do mundo
+    - Atendimento via telefone, email, chat, twitter, facebook, instagram, ICQ, WhatsApp, SMS, carta, fax, sinal de fumaça e telegrama
+    - Presente em 124 países
+    - Mais de um milhão de funcionários em todo o mundo
+
+  Exercício
+    - "nosso site" apontando para a página principal do nosso site em "index.html"
+    - "nossa história" apontando para a página sobre, porém tendo como alvo o subtítulo <h2>História</h2>
+    - "nossos diferenciais" apontando para a página sobre, porém tendo como alvo o subtítulo <h2>Diferenciais</h2>
+
+  Exercício
+    Fazer um menu com 3 itens abaixo da logo do site
+
+Projeto: https://bit.ly/38naMYg
+
+Aula 3
+  Exercício:
+    - A <figure> da matriz deverá ter 550px de largura e deve estar centralizada em relação à página.
+    - A <figure> da família devera ter 275px de largura, deve ficar alinhada à direita e envolta pelos textos que vêm no HTML abaixo dela. *
+
+    Ao alterar a largura das tags <figure> você notará que as tags <img> dentro delas são maiores.
+    Para resolver isso podemos dizer que toda tag <img> dentro de uma tag <figure> deve ocupar
+    todo o espaço que definimos, mas não mais que isso.
+  
+  Exercício
+    - Adicionar seção de contato
+    - O título desta seção deve ser igual ao título principal da página (MusicDot)
+    - Refatorar a estilização dos outros subtítulos para deixarem usar seletores de tags
+
+  Exercício: Semântica
+    Criar na seção Contato:
+      Uma seção com título "Correspondência" contendo:
+        - o horário para recebimento de correspondências
+        - um endereço para correspondência com:
+          - Nome da empresa
+          - Rua, núemro e andar
+          - Bairro
+          - Cidade - estado
+
+      Uma seção com título "Telefones" contendo:
+        - o horário para recebimento de ligações
+        - Telefone de Pessoa Física
+        - Telefone de Pessoa Jurídica
+
+Aula 4
+  Exercício
+    - Alinhar descrições (Atendemos aos sábados das 9h às 20h) com o subtítulo (<h3>)
+    - Adequar espaçamentos, se necessário
+    - Adequar nomes das classes ao BEM
+
+  Exercício
+    - O texto do telefone (dt) deve estar na mesma linha que o telefone (dd)
+    - A seção de telefones deve ter um background com a cor #E1EDF2
+  
+  Exercício
+    - Criar um novo footer com logo e um copyright (&copy;)
+    - Mudar tamanho da fonte global para 16px
+    - Adicionar espaçamento global entre linhas de 1.5
+    - No rodapé:
+      - Adicionar espaçamento interno de 75% maior que o da fonte da página em cima e em baixo e 0 nos lados
+      - Colocar uma fonte 10% maior que a fonte da página no copyright
+      - Deixar a logo e texto de copyright na mesma linha
+      - Colocar um espaçamento a esquerda da logo de 1em
+    - Dar 3 pulinhos
+
+Aula 05
+  Exercício
+    - Modificar a largura do container pai para que ele utilize a unidade de medida relativa de porcentagem, e também tamanho máximo que o container pode alcançar.
+    - Deixar a figure ocupando o máximo de espaço possível da página e também faça com que o tamanho do figure seja de toda a caixa (box-sizing).
+
+  Exercício
+    - telas de até 850px:
+      - transforme as seções "Correspondências" e "Telefones" em blocos para que elas ocupem toda a largura disponível e não dividam o espaço na horizontal entre sí.
+      - Adicione também um espaçamento à esquerda do tamanho de um caracter nessas mesmas seções.
+
+    - telas de até 622px:
+        - faça com que a <figure> da família deixe de flutuar para que os textos voltem a ficar apenas embaixo da figura.
+        - centralize a figura na horizontal, em relação à pagina.
+
+    - telas de até 446px:
+        - Na seção de contato, faça com que cada súbtítulo desses vire um bloco, que ocupe a linha toda e faça a linha com os horários ir para baixo.
+        - Na seção de contato, substitua a margem à esquerda por uma borda de 1px cinza-claro à esquerda.
+        -  Na seção de contato, coloque um espaçamento interno à esquerda de 5px
+        -  Na seção de contato, deixe a fonte levemente menor ( 0.92em ) do que o tamanho da fonta da página
+        - No rodapé, deixe a fonte levemente menor do que a que a fonte da página ( 0.92em ).
+
+    - telas de até 342px:
+        - Na seção de contato, deixe os título da <dl> dos telefones como bloco para que ocupem a linha toda
+        - Na seção de contato, coloque um espaçamento à esquerda para dar a ideia de hierarquia entre título e número de telefone
+
+Aula 06
+  Exercício
+    - Importar o reset do Eric Meyer no index.html
+    - Iniciaremos os estilos em cabecalho.css alterando sua cor de fundo para um azul-escuro "#2D5377" e a cor do conteúdo para branco "#FFF".
+    - Adicionar nos resets:
+      - adicionar a fonte Montserrat
+      - alteraremos a fonte padrão de todo texto na página pela fonte Montserrat
+      - todo texto na página por padrão terá a cor #2e4255
+      - todo link terá a cor herdada da cor da fonte do seu parente
+      - todo link terá a decoração de texto (e.g. underline) herdada de seu parente

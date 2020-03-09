@@ -1,0 +1,27 @@
+h1, h2, h3 {
+  font-size: 80px; /* altera o tamanho da fonte */
+  font-family: Arial; /* altera a família da fonte */
+  /* color: #ff9900; altera a cor do texto */
+  color: #827afe; /* altera a cor do texto */
+  /* background-color: blue; */ /* altera a cor do fundo */
+  
+  border: 20px dashed fuchsia; /* configura borda */
+  text-align: right; /* altera o alinhamento do texto */
+  font-weight: lighter; /* altera o peso da fonte */
+  letter-spacing: 4px; /* altera o espaçamento entre caracteres */
+  line-height: 1.5; /* altera espeçamento entre linhas */
+  text-decoration: underline; /* altera o estilo da fonte (sublinhado, negrito, itálico) */
+  background-image: url('./img/planos-background-mobile.png'); /* altera imagem de fundo */
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+figcaption {
+  font-size: 20px;
+  border: 1px solid black;
+  color: #cc0000;
+}
