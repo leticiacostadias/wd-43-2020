@@ -116,3 +116,30 @@ Aula 4
       - Deixar a logo e texto de copyright na mesma linha
       - Colocar um espaçamento a esquerda da logo de 1em
     - Dar 3 pulinhos
+
+Aula 05
+  Exercício
+    - Modificar a largura do container pai para que ele utilize a unidade de medida relativa de porcentagem, e também tamanho máximo que o container pode alcançar.
+    - Deixar a figure ocupando o máximo de espaço possível da página e também faça com que o tamanho do figure seja de toda a caixa (box-sizing).
+
+  Exercício
+    - telas de até 850px:
+      - transforme as seções "Correspondências" e "Telefones" em blocos para que elas ocupem toda a largura disponível e não dividam o espaço na horizontal entre sí.
+      - Adicione também um espaçamento à esquerda do tamanho de um caracter nessas mesmas seções.
+
+    - telas de até 622px:
+        - faça com que a <figure> da família deixe de flutuar para que os textos voltem a ficar apenas embaixo da figura.
+        - centralize a figura na horizontal, em relação à pagina.
+
+    - telas de até 446px:
+        - Na seção de contato, faça com que cada súbtítulo desses vire um bloco, que ocupe a linha toda e faça a linha com os horários ir para baixo.
+        - Na seção de contato, substitua a margem à esquerda por uma borda de 1px cinza-claro à esquerda.
+        -  Na seção de contato, coloque um espaçamento interno à esquerda de 5px
+        -  Na seção de contato, deixe a fonte levemente menor ( 0.92em ) do que o tamanho da fonta da página
+        - No rodapé, deixe a fonte levemente menor do que a que a fonte da página ( 0.92em ).
+
+    - telas de até 342px:
+        - Na seção de contato, deixe os título da <dl> dos telefones como bloco para que ocupem a linha toda
+        - Na seção de contato, coloque um espaçamento à esquerda para dar a ideia de hierarquia entre título e número de telefone
+
+  
