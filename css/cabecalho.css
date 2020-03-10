@@ -1,4 +1,17 @@
 .cabecalho {
   background-color: #2d5377;
+  font-size: 70%;
   color: #fff;
+  text-transform: uppercase;
+}
+
+.cabecalho__menu {
+  background-color: rgba(39, 43, 58, 0.529); /* IE 6 */
+  background-color: #272b3a87;
+}
+
+.cabecalho__menu-item {
+  padding: 1.86em 1.42em;
+  display: inline-block;
+  letter-spacing: 0.2em;
 }

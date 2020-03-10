@@ -152,3 +152,17 @@ Aula 06
       - todo texto na página por padrão terá a cor #2e4255
       - todo link terá a cor herdada da cor da fonte do seu parente
       - todo link terá a decoração de texto (e.g. underline) herdada de seu parente
+
+  Projeto: https://bit.ly/2v6AF0T
+
+  Exercício
+    Ao passar o mouse sobre um link ele deve ficar 25% mais transparente e deve fazer essa transição de forma animada.
+  
+  Exercício
+    - Nos links do menu, colocar um espaçamento vertical de 1.86em e hoprizontal de 1.42em
+    - Deixar os links do menu, em uma única linha
+    - Diminuir um pouco a fonte do cabeçalho
+    - Deixar o texto do menu em caixa alta (sem alterar a semântica)
+    - Aumentar o espaçamento entre letras
+    - Escurecer a cor de fundo do menu com um cinza-escuro transparente (#272B3a87)
+    - Garantir o suporte a cor com opacidade em navegadores antigos

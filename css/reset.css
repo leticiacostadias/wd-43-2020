@@ -137,4 +137,13 @@ table {
 a {
   color: inherit;
   text-decoration: inherit;
+  transition-duration: 0.3s; /* outra possibilidade junto com o transition-property */
+  /* transition: opacity 0.3s; */
+  /* faz a transição quando o mouse entre ou sai de cima do elemento */
+}
+
+a:hover {
+  opacity: 0.75;
+  transition-property: opacity; /* outra possibilidade junto com o transition-duration */
+  /* transition: opacity 0.3s; aqui a transição acontece apenas quando o mouse chega em cima do elemento */
 }
