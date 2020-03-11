@@ -166,3 +166,27 @@ Aula 06
     - Aumentar o espaçamento entre letras
     - Escurecer a cor de fundo do menu com um cinza-escuro transparente (#272B3a87)
     - Garantir o suporte a cor com opacidade em navegadores antigos
+
+Projeto -> https://bit.ly/2IxY1zM
+
+Aula 07
+  Exercício
+    Utilizando flexbox, devemos deixar todos os itens do menu na mesma linha e distribuídos igualmento por toda a largura do cabeçalho.
+    
+  Exercício
+    - Adicionar um espaçamento vertical de 1em na logo
+  
+    Em telas com 640px ou mais:
+      - A logo deve ficar do lado esquerdo da tela, o menu deve ficar do lado direito, tendo o máximo de espaço possível entre eles.
+      - Adicionar um espaçamento interno horizontal de 5% ao cabeçalho
+      - O menu não deve ter cor de fundo.
+      - Adicionar um espaçamento vertical de 2.5em na logo *
+
+  Exercício
+    Em telas de 1066px ou mais:
+      - Dar destaque ao item Entrar do menu com um fundo na cor #e93d50
+      - Dar uma distância de 1.42em do item anterior
+      - Adicionar uma borda arredondada com raio de 6px
+      - Calcular o padding horizontal do cabeçalho dinâmicamente considerando que o cabeçalho deve ter, no máximo 960px **
+
+

@@ -10,13 +10,14 @@
     />
     <link rel="stylesheet" href="css/reset.css" />
     <link rel="stylesheet" href="css/cabecalho.css" />
+    <link rel="stylesheet" href="css/rodape.css" />
 
     <title>Bem vindo à MusicDot!</title>
   </head>
   <body>
     <div>
       <header class="cabecalho">
-        <img src="img/logo.svg" alt="Logo MusicDot" />
+        <img class="cabecalho__logo" src="img/logo.svg" alt="Logo MusicDot" />
 
         <nav>
           <ul class="cabecalho__menu">
@@ -26,7 +27,7 @@
             <li class="cabecalho__menu-item">
               <a href="matricula.html">Matricule-se</a>
             </li>
-            <li class="cabecalho__menu-item">
+            <li class="cabecalho__menu-item cabecalho__menu-item--destaque">
               <a href="entrar.html">Entrar</a>
             </li>
           </ul>
@@ -35,7 +36,46 @@
 
       <main></main>
 
-      <footer></footer>
+      <footer class="rodape">
+        <img class="rodape__logo" src="img/logo.svg" alt="Logo MusicDot" />
+        <address>
+          AOVS Sistemas de Informática S.A<br />
+          CNPJ 05.555.382/0001-33<br />
+          Rua Vergueiro - São Paulo/SP<br />
+          Telefone (11) 4118-3319
+        </address>
+
+        <section class="rodape__redes-sociais">
+          <img src="img/footer-icone-facebook.svg" alt="Confira nossa página" />
+          <img src="img/footer-icone-youtube.svg" alt="Confira nosso canal" />
+        </section>
+
+        <h2 class="rodape__titulo">Cursos da MusicDot</h2>
+        <ul>
+          <li><a href="#">Cursos de Teclado e Piano</a></li>
+          <li><a href="#">Cursos de Violão e Guitarra</a></li>
+          <li><a href="#">Cursos de Baixo</a></li>
+          <li><a href="#">Cursos de Bateria</a></li>
+          <li><a href="#">Cursos de Percussão</a></li>
+          <li><a href="#">Cursos de Canto</a></li>
+          <li><a href="#">Cursos de Cordas</a></li>
+          <li><a href="#">Cursos de Teoria</a></li>
+          <li><a href="#">Cursos de Sopro</a></li>
+          <li><a href="#">Cursos de Áudio</a></li>
+        </ul>
+
+        <h2 class="rodape__titulo">MusicDot</h2>
+        <ul>
+          <li><a href="#">Apostila</a></li>
+          <li><a href="#">e-Book</a></li>
+          <li><a href="#">Login</a></li>
+          <li><a href="#">Matricule-se</a></li>
+          <li><a href="#">Perguntas Frequentes</a></li>
+          <li><a href="#">Artigos</a></li>
+          <li><a href="#">Para escolas de música</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+      </footer>
     </div>
   </body>
 </html>

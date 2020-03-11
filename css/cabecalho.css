@@ -8,10 +8,48 @@
 .cabecalho__menu {
   background-color: rgba(39, 43, 58, 0.529); /* IE 6 */
   background-color: #272b3a87;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .cabecalho__menu-item {
   padding: 1.86em 1.42em;
   display: inline-block;
   letter-spacing: 0.2em;
+}
+
+.cabecalho__logo {
+  padding: 1em 0;
+}
+
+@media (min-width: 640px) {
+  .cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+  }
+
+  .cabecalho__menu {
+    background-color: unset;
+    background-color: transparent;
+  }
+
+  .cabecalho__logo {
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    padding: 2.5em 0;
+  }
+}
+
+@media (min-width: 1066px) {
+  .cabecalho {
+    padding-left: calc((100% - 960px) / 2);
+    padding-right: calc((100% - 960px) / 2);
+  }
+  .cabecalho__menu-item--destaque {
+    background-color: #e93d50;
+    margin-left: 1.42em;
+    border-radius: 6px;
+  }
 }

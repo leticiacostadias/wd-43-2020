@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+      div {
+        box-sizing: border-box;
+      }
+
+      .primeira {
+        background: blue;
+        height: 200px;
+        width: 300px;
+      }
+
+      .segunda {
+        background: red;
+        height: 400px;
+        width: 250px;
+      }
+
+      .ultima {
+        background-color: yellow;
+        height: 300px;
+        width: 200px;
+      }
+
+      /* div pai */
+      .flexbox {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        flex-wrap: wrap;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="flexbox">
+      <div class="primeira"></div>
+      <div class="segunda"></div>
+      <div class="primeira"></div>
+      <div class="segunda"></div>
+      <div class="ultima"></div>
+    </div>
+  </body>
+</html>

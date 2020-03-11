@@ -1,0 +1,19 @@
+.rodape {
+  text-align: center;
+  font-size: 0.85em;
+  padding: 1em 0;
+}
+
+.rodape__logo {
+  height: 40px;
+}
+
+.rodape__redes-sociais {
+  margin-bottom: 10px;
+}
+
+.rodape__titulo {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.5em;
+}
