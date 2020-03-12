@@ -1,0 +1,32 @@
+.newsletter {
+  display: flex;
+  justify-content: center;
+  margin: 1.3em auto 0;
+  max-width: 300px;
+  width: 100%;
+}
+
+.newsletter__campo {
+  border: 2px solid #e93d50;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  height: 3em;
+  flex-grow: 2;
+}
+
+.newsletter__botao {
+  background-color: #e93d50;
+  border: 2px solid #e93d50;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+  color: #fff;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  flex-grow: 1;
+}
+
+@media (min-width: 640px) {
+  .newsletter {
+    margin: 1.3em 0 0;
+  }
+}

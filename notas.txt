@@ -189,4 +189,24 @@ Aula 07
       - Adicionar uma borda arredondada com raio de 6px
       - Calcular o padding horizontal do cabeçalho dinâmicamente considerando que o cabeçalho deve ter, no máximo 960px **
 
+Aula 07
+Projeto - https://bit.ly/2IAWBoa
 
+  Exercício
+    - Separar as seções do rodapé dentro de sections
+    - Aplicar espaçamentos entre as seções do rodapé, utilizando unidades relativas
+  
+  Exercício
+    Em telas 640px ou mais:
+      - Adequar as fontes para 1em
+      - Adequar as margens das seções
+      - Usando flexbox, reordenar as seções:
+        - Primeira linha: Cursos MusicDot | MusicDot
+        - Segunda linha: Logo, endereço e mídias sociais | Newsletter
+
+
+  Exercicio
+    Em telas de 1200px ou mais:
+      - Voltar a ordem do rodapé
+      - Reduzir as fontes
+      - Alinhar as mídias sociais para a esquerda
