@@ -210,3 +210,20 @@ Projeto - https://bit.ly/2IAWBoa
       - Voltar a ordem do rodapé
       - Reduzir as fontes
       - Alinhar as mídias sociais para a esquerda
+
+Aula 09
+  Projeto - https://tinyurl.com/wd43-09
+
+  Exercício
+    Criar um componente (classe) container reutilizável:
+      - Ele deve ter no máximo 980px
+      - Deve estar centralizado
+    
+  Exercício
+    Reproduzir em resolução mobile a vitrine da MusicDot
+    Em telas de 640px ou mais:
+      - A célula do curso de Bateria deve ficar na primeira coluna, ocupando duas linhas
+      - Mudar a imagem de background
+      - O ícone da bateria deve ficar proporcional ao tamanho da célula
+    Em telas de 1200px ou mais:
+      - A célula do curso de Canto deve ficar na terceira coluna, ocupando duas linhas.

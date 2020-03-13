@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .caixa {
+            background-color: yellow;
+            height: 80px;
+            border: 1px solid
+        }
+
+        .caixa-pai {
+            display: grid;
+            grid-template-rows: 300px 1fr 1fr;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-areas: "caixaGrande . ."
+                                 "caixaGrande . ."
+                                 "caixaGrande . .";
+        }
+
+        .caixa--comprida {
+            /* grid-row: span 3; */
+            /* grid-column: 2 / 5 */
+            grid-area: caixaGrande;
+            height: 100%;
+        }
+
+        .caixa-pai > div {
+            height: 100px
+        }
+        
+        .cabecalho {
+            grid-area: header;
+            background: yellow
+        }
+
+        .sidebar {
+            grid-area: sidebar;
+            background: purple;
+        }
+
+        .main {
+            grid-area: conteudo;
+            background: red;
+        }
+
+        .rodape {
+            grid-area: footer;
+            background: blue
+        }
+
+    </style>
+</head>
+<body>
+    <div class="caixa-pai">
+        <div class="caixa caixa--comprida">1</div>
+        <div class="caixa">2</div>
+        <div class="caixa">3</div>
+        <div class="caixa">4</div>
+        <div class="caixa">5</div>
+    </div>
+</body>
+</html>
