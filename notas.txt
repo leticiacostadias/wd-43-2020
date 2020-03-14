@@ -227,3 +227,18 @@ Aula 09
       - O ícone da bateria deve ficar proporcional ao tamanho da célula
     Em telas de 1200px ou mais:
       - A célula do curso de Canto deve ficar na terceira coluna, ocupando duas linhas.
+
+Aula 10
+ Projeto - https://tinyurl.com/projeto-musicdor
+
+ matricula.html -> https://tinyurl.com/u62lxpa
+ exemplo.js -> https://tinyurl.com/exemplo-js
+
+ Exercício
+    - Guardar em variáveis a quantidades de cursos selecionados e total de horas
+		- Capturar no JS o click no checkbox
+		- Se o checkbox tiver sido marcado, incrementar a quantidade de cursos e somar a quantidade de horas ao total
+		- Caso contrário, decrementar a quantidade de cursos e subtrair a quantidade de horas do total
+		- Atualizar o texto de total de cursos selecionados e horas totais
+		- Ao clicar no botão de confirmação, deve ser alertado o texto "Matrícula confirmada com sucesso" e o usuário deve ser redirecionado para o índex.html
+		- Se nenhum curso tiver sido selecionado, ao clicar em confirmar, deve ser alertado o texto "Nenhum curso selecionado"
